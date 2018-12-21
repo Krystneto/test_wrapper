@@ -9,3 +9,6 @@ reports
 
 # Gauge - JavaScript node dependencies
 node_modules
+
+# VSCode - plugin
+.vscode
