@@ -1,1 +1,0 @@
-var index = {"Tags":{},"Specs":{"Salesforce Login Test":["specs/salesforce/login.html"],"SettleIt Login Test":["specs/settleit/login.html"]}};
